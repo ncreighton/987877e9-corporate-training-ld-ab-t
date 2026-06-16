@@ -1,2 +1,28 @@
-# 987877e9-corporate-training-ld-ab-t
-The fastest way to add powerful functionality to WordPress without writing code. No setup fees. No learning curve.  Regular security updates. Works with WordPress multisite. Compatible with all major WordPress themes and page builders.  ## What's Included  - Corporate Training &amp; L&amp;D A/B Testing And Conversion Optimization — fully configured and rea
+# Corporate Training & L&D A/B Testing and Conversion Optimization WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00wbJ18v58Is6xy9rKcZo2c)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00wbJ18v58Is6xy9rKcZo2c)
+
